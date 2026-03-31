@@ -6,7 +6,7 @@
 
 ## 📌 ¿Qué hace este proyecto?
 
-**Garant-IA** permite a equipos comerciales y operativos consultar en lenguaje natural el contenido de las 32 Circulares Normativas Externas (CNE) emitidas por el FNG en 2024, sin necesidad de buscar manualmente en documentos PDF o Excel.
+**Garant-IA** permite a equipos comerciales y operativos consultar en lenguaje natural el contenido de Circulares Normativas Externas (CNE) emitidas por el FNG en 2024, sin necesidad de buscar manualmente en documentos PDF o Excel.
 
 El sistema:
 - Recibe una pregunta en lenguaje natural (ej: *"¿Cuál es la cobertura del EMP440 para créditos menores a 10 millones?"*)
