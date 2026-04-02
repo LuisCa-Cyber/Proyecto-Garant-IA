@@ -1,5 +1,17 @@
 # 🤖 Garant-IA — Asistente Inteligente de Circulares Normativas (FNG)
 
+<p align="center">
+  <a href="https://proyecto-garant-ia-fng.streamlit.app" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Abrir en Streamlit"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://proyecto-garant-ia-fng.streamlit.app"><strong>🚀 Ver aplicación en vivo → proyecto-garant-ia-fng.streamlit.app</strong></a>
+</p>
+
+![Garant-IA App](assets/screenshot.png)
+
 > Chatbot conversacional basado en RAG (Retrieval-Augmented Generation) para consultar y analizar Circulares Normativas Externas (CNE) del **Fondo Nacional de Garantías**, construido con FAISS, OpenAI Embeddings y Streamlit.
 
 ---
